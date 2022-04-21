@@ -46,7 +46,7 @@ class SmartBanner extends Component {
         -2
       ) || 'us'
       : 'us',
-    button: 'View',
+    button: 'Open',
     storeText: {
       ios: 'On the App Store',
       android: 'In Google Play',
